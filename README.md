@@ -1,3 +1,7 @@
+Markdonw App
+
+Simple application to help people to write markdown files
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
